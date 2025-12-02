@@ -1,0 +1,2 @@
+This project uses state-of-the-art Transformer models (BERT, RoBERTa, DistilBERT, etc.) to automatically analyze user-generated text and predict potential mental-health indicators such as stress, anxiety, or depression.
+It leverages Natural Language Processing (NLP) and Deep Learning to provide an automated, scalable, and data-driven mental-health assessment pipeline.
